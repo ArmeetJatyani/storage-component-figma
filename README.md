@@ -2,7 +2,7 @@
 A simple storage component that could show, for example, cloud storage usage.
 
 # front-end-mentor
-This design was a challenge on `front-end-mentor`. 
+This design was a challenge on `front-end-mentor` I took on to build my design skills!
 I changed around a few things, adding gradients here and there.
 
 https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
