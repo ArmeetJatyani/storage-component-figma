@@ -9,7 +9,7 @@ https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
 # Screenshots
 ## App
-![image](https://user-images.githubusercontent.com/38377327/126368366-fd1a6bfd-b482-41d4-b6d7-b1782d9707a9.png)
+![image](https://user-images.githubusercontent.com/38377327/126368457-856a8637-2699-4629-92b7-e138d8273542.png)
 
 ## Design
 ![image](https://user-images.githubusercontent.com/38377327/126368334-df390010-8c38-421c-a690-99fd989f9c2e.png)
